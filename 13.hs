@@ -1,0 +1,1 @@
+ceoDeo n = last [x | x <- [1..n], x*x <= n]
