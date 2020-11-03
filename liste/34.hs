@@ -1,0 +1,1 @@
+sufiksi l = [drop x l | x <- [0..length l]]
