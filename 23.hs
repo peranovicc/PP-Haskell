@@ -1,0 +1,1 @@
+jednocifreniDelioci n = [x | x <- [1..9], n `mod` x == 0]
