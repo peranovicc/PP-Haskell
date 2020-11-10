@@ -1,0 +1,1 @@
+prviNePozitivni lista = takeWhile (>0) lista

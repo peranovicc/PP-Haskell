@@ -1,0 +1,1 @@
+sledbenici l = [x + 1 | x <- l]

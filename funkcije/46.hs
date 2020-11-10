@@ -1,0 +1,1 @@
+suma lista = foldr (+) 0 lista
