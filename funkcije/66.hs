@@ -1,0 +1,1 @@
+listaUPar l = ([fst x | x <- l],[snd x | x <- l])
